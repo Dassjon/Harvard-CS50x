@@ -6,6 +6,8 @@ You gotta escape from the SAT's evil claws! It could be chaotic so you better be
 
 Some enemies could go straight forward for you, or if you're lucky, that was just what about to happen :3
 
+I've made this game thinking of making an unique experience to each player who get through. I hope you enjoy it :D
+
 If, for any reasons, there seems to be no way to continue, just click the Green Flag again please x)
 
 By Jordan Dassaed Garciafigueroa Godoy on January 29th 2023
