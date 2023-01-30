@@ -6,5 +6,5 @@ You gotta escape from the SAT's evil claws! It could be chaotic so be prepared f
 
 SAT is the TAX regulator here in Mexico :3
 
-By Jordan Garciafigueroa on January 29th 2023
+By Jordan Dassaed Garciafigueroa Godoy on January 29th 2023
 Harvard CS50x Introduction to computer science.
