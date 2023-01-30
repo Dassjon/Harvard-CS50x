@@ -10,3 +10,5 @@ If, for any reasons, there seems to be a no way to continue, just click the Gree
 
 By Jordan Dassaed Garciafigueroa Godoy on January 29th 2023
 Harvard CS50x Introduction to computer science.
+
+PS: It was SO hard to get my Scratch file from 65 MB to 16.50 MB, especially because the music loops creations as clean as I could, but I did it! And I'm proud of it :D
