@@ -13,4 +13,4 @@ Harvard CS50x Introduction to computer science.
 
 SAT is the TAX regulator here in Mexico :3 (of course it's just a joke.I'm not supporting any TAX avoidance practice).
 
-PS: It was SO hard to get my Scratch file from 65 MB to 16.50 MB, especially because the music loops creations as clean as I could get them, but I did it! And I'm proud of it :D
+PS: It was SO hard to get my Scratch file from 65 MB to 21.60 MB, especially because the music loops creations as clean as I could get them, but I did it! I'm sorry for not reached out 10 MB, I tried my best :c
